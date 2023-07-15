@@ -7,9 +7,9 @@ class MainPost extends Component{
           <div className="post-bar">
             <div className="post_topbar">
               <div className="usy-dt">
-                <img src="./images/saroj-pic.jpeg" alt="" />
+                <img src="./images/ayaya.jpg" alt="" />
                 <div className="usy-name">
-                  <h3>Saroj Shakya</h3>
+                  <h3>Amit Maharjan</h3>
                   <span>3 min ago</span>
                 </div>
               </div>
@@ -788,9 +788,9 @@ class MainPost extends Component{
           <div className="post-bar">
             <div className="post_topbar">
               <div className="usy-dt">
-                <img src="./images/saroj-pic.jpeg" alt="" />
+                <img src="./images/ayaya.jpg" alt="" />
                 <div className="usy-name">
-                  <h3>Saroj Shakya</h3>
+                  <h3>Amit Maharjan</h3>
                   <span>3 min ago</span>
                 </div>
               </div>
@@ -896,11 +896,11 @@ class MainPost extends Component{
               <div className="post_topbar">
                 <div className="usy-dt">
                   <img
-                    src="./images/saroj-pic.jpeg"
+                    src="./images/ayaya.jpg"
                     alt=""
                   />
                   <div className="usy-name">
-                    <h3>Saroj Shakya</h3>
+                    <h3>Amit Maharjan</h3>
                     <span>3 min ago</span>
                   </div>
                 </div>

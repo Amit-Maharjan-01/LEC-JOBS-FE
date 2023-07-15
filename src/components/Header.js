@@ -165,7 +165,7 @@ class Header extends Component{
               </div>
               <div className="user-account">
                 <div className="user-info">
-                  <img src="./images/user.jpeg" alt="" />
+                  <img src="./images/ayaya.jpg" alt="" />
                   <a href="./index.html#" title="">Saroj</a>
                   <i className="la la-sort-down"></i>
                 </div>

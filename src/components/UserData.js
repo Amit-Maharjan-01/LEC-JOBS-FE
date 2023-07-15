@@ -8,11 +8,11 @@ class UserData extends Component{
             <div className="user-profile">
               <div className="username-dt">
                 <div className="usr-pic">
-                  <img src="./images/saroj-pic.jpeg" alt="" />
+                  <img src="./images/ayaya.jpg" alt="" />
                 </div>
               </div>
               <div className="user-specs">
-                <h3>Saroj Shakya</h3>
+                <h3>Amit Maharjan</h3>
                 <span>Research Head</span>
               </div>
             </div>
