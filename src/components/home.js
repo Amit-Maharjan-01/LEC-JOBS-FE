@@ -5,16 +5,30 @@ import TagSection from "./TagSection";
 import MainPost from "./MainPost";
 import MakePost from "./MakePost";
 
+const userData = {
+  email:"test@test.com",
+  username:"ayaya",
+  fullname:"ayaya User",
+  title:"Software Developer",
+  skills:["JS","PHP","JAVA"],
+  address:"Kathmandu, Nepal",
+  job_type:"Full Time",
+  id: 1,
+  is_active: true,
+  followers:["username123","user234","user546"],
+  following:["username132","user324","user566","user555"],
+};
+
 class Home extends Component {
     render() {
         return <div className="wrapper">
-       <Header></Header>
+       <Header user={userData}></Header>
         <main>
           <div className="main-section">
             <div className="container">
               <div className="main-section-data">
                 <div className="row">
-                 <UserData></UserData>
+                 <UserData user={userData}></UserData>
                   <div className="col-lg-6 col-md-8 no-pd">
                     <MakePost></MakePost>
                     <MainPost></MainPost>
